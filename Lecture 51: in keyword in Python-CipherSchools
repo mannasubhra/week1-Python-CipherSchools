@@ -1,0 +1,7 @@
+name = "Subhradeep"
+# in keyword
+# if with in
+if 'D' in "Subhradeep":
+    print("D is present in name")
+else:
+    print("not present")
