@@ -1,0 +1,2 @@
+# print("Subhradeep"[-1::-1])
+print("Subhradeep"[::-1]) # trick
